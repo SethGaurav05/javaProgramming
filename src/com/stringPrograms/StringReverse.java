@@ -1,6 +1,6 @@
 package com.stringPrograms;
 
-import java.io.Console;
+//import java.io.Console;
 import java.util.*;
 
 public class StringReverse {
