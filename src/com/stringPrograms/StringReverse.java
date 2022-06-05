@@ -1,7 +1,6 @@
 package com.stringPrograms;
 
-//import java.io.Console;
-import java.util.*;
+import java.util.Scanner;
 
 public class StringReverse {
 public static void main(String[] args) {
